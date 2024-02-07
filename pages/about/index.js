@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-key */
 import React, { useState } from "react";
 
 // icons
@@ -128,7 +129,7 @@ const About = () => {
             exit="hidden"
             className="max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0"
           >
-            My name is Sourabh. I'm a passionate software developer based in
+            My name is Sourabh. I am a passionate software developer based in
             Canada. I have a track record of delivering scalable and efficient
             projects on time and within budget, with expertise in React and
             Express.
